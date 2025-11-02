@@ -3,10 +3,12 @@
 Notebook:  https://github.com/rh2098ta/Practicalapplication3/blob/main/practical3.ipynb
 
 Business Problem -- 
-A Portuguese bank markets term deposits by phone. We want to predict which customers will subscribe so we can prioritize who to call, improve conversion rates, and reduce wasted calls.
+
+A Portuguese bank markets term deposits by phone. Most customers do not subscribe, which means time and money are being spent on calls that don’t convert. The goal is to use machine learning to predict which customers are most likely to subscribe so the bank can prioritize high-value leads, improve conversion rates, and reduce wasted calls.
 
 Project Overview -- 
-This project looks at data from a Portuguese bank's telemarketing campaigns to figure out which customers are actually likely to subscribe to a term deposit. The dataset comes from the UCI Machine Learning Repository, and the main problem is straightforward — most calls don't result in a sale, so the bank is basically wasting time and money calling people who aren't interested. My goal was to find patterns in customer attributes and campaign history that could help predict who's worth calling.
+
+This project looks at data from a Portuguese bank's telemarketing campaigns (the UCI Bank Marketing dataset) to figure out which customers are actually likely to subscribe to a term deposit. The main problem is straightforward—most calls don't result in a sale, so the bank is basically wasting time and money calling people who aren't interested. My goal was to find patterns in customer attributes and campaign history that could help predict who's worth calling. The notebook walks through a full workflow including data understanding, exploratory analysis, preprocessing, model training, and evaluation. I trained and compared four classification models: K-Nearest Neighbors, Logistic Regression, Decision Tree, and Support Vector Machine.
 
 <img width="992" height="716" alt="image" src="https://github.com/user-attachments/assets/4a06fdb4-b4fb-43fe-a79e-332c2be8b012" />
 
