@@ -1,6 +1,6 @@
 # Practicalapplication3
 
-https://github.com/rh2098ta/Practicalapplication3/blob/main/practical3.ipynb
+Notebook:  https://github.com/rh2098ta/Practicalapplication3/blob/main/practical3.ipynb
 
 Business Problem -- 
 A Portuguese bank markets term deposits by phone. We want to predict which customers will subscribe so we can prioritize who to call, improve conversion rates, and reduce wasted calls.
